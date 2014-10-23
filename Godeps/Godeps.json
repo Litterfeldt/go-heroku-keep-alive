@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/VideofyMe/heroku-keep-alive",
+	"GoVersion": "go1.3.3",
+	"Deps": [
+		{
+			"ImportPath": "github.com/andelf/go-curl",
+			"Comment": "compatible-with-go-release.r60-56-g8ff69d4",
+			"Rev": "8ff69d4be61e417cc432604ad991fa5664d38384"
+		}
+	]
+}
